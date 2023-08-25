@@ -9,6 +9,7 @@ VN_Mode_Section.html: Stellt den VN-Modus dar. Man kann einen kleinen Abschnitt 
 Link zur fertigen und in Github-Pages lauffähigen Anwendung:
 
 Explore-Modus: https://bajergis.github.io/Thesis/Explore_Mode_Section.html
+
 VN-Modus: https://bajergis.github.io/Thesis/VN_Mode_Section.html
 
 Link zum Quellcode:
